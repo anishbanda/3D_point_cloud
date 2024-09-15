@@ -7,7 +7,7 @@ Read the instructions below to download the `2021 mobile dataset` from the Middl
 1. Click on the link above to access the Middlebury Stereo Vision Dataset
 2. Scroll down to the [2021 mobile dataset] (https://vision.middlebury.edu/stereo/data/scenes2021/)
 3. At the bottom of the page, you will find a download link for a `.zip` file containing the full dataset. 
-4. Move the extracted `data` folder to the same directory where `main.py` and `stereo`utils.py` are located.
+4. Move the extracted `data` folder to the same directory where `main.py` and `stereo_utils.py` are located.
 
 The program **REQUIRES** the `data` folder to be in the **SAME** directory as the `main.py` and the `stereo`utils.py` files to run properly
 
