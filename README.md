@@ -18,7 +18,7 @@ In German Conference on Pattern Recognition (GCPR 2014), Münster, Germany, Sept
 ## Pre-Requisites
 Ensure the following are installed on your system.
 1. Python (Any version 3.0 or better)
-[Python] (https://www.python.org/downloads/)
+[Python Download] (https://www.python.org/downloads/)
 2. OpenCV
 ```
 pip install opencv-python
