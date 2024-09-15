@@ -9,7 +9,7 @@ Read the instructions below to download the `2021 mobile dataset` from the Middl
 3. At the bottom of the page, you will find a download link for a `.zip` file containing the full dataset. 
 4. Move the extracted `data` folder to the same directory where `main.py` and `stereo_utils.py` are located.
 
-The program **REQUIRES** the `data` folder to be in the **SAME** directory as the `main.py` and the `stereo`utils.py` files to run properly
+The program **REQUIRES** the `data` folder to be in the **SAME** directory as the `main.py` and the `stereo_utils.py` files to run properly
 
 ### Dataset Reference
 D. Scharstein, H. Hirschmüller, Y. Kitajima, G. Krathwohl, N. Nesic, X. Wang, and P. Westling. [High-resolution stereo datasets with subpixel-accurate ground truth]. (https://www.cs.middlebury.edu/~schar/papers/datasets-gcpr2014.pdf`)
