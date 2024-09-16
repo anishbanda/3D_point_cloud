@@ -71,6 +71,7 @@ The program will:
 3. Calls functions from `stereo_utils.py`
   
 `stereo_utils.py`
+
 Contains the following utility functions:
 `load_image`: Loads image in grayscale mode.
 `resize_images`: Resize both images to same dimensions.
