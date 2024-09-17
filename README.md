@@ -73,10 +73,15 @@ The program will:
 `stereo_utils.py`
 
 Contains the following utility functions:
+
 `load_image`: Loads image in grayscale mode.
+
 `resize_images`: Resize both images to same dimensions.
+
 `compute_disparity_map `: Computes disparity map using StereoSGBM.
+
 `parse_calibration_data`: Parse through `calib.txt` file to figure out calibration parameters.
+
 `compute_point_cloud`: Compute 3D point cloud from disparity map.
 
 ________________________________________________________________________________________________________________________________________________________________________
